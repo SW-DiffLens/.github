@@ -1,5 +1,7 @@
 # DiffLens
-https://github.com/user-attachments/assets/8916618c-9827-4a0d-8cb9-5339a6f3f6e3
+
+https://github.com/user-attachments/assets/e3f69423-a2fe-48b5-9e3a-bd6428e83288
+
 
 DiffLens는 패널 데이터 분석 및 비교를 위한 웹 애플리케이션입니다.
 
